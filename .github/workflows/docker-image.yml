@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/amilkeg/renderxhttp:latest
+          tags: ghcr.io/amilkeg/renderxhtt1:latest
